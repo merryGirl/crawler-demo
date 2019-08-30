@@ -1,0 +1,19 @@
+{
+  "name": "crawler-demo",
+  "version": "1.0.0",
+  "description": "node爬虫demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node、爬虫"
+  ],
+  "author": "merryGirl",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "superagent": "^5.1.0"
+  }
+}
