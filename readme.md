@@ -4,4 +4,14 @@
 
 ### 启动命令
 
-`node index.js`
+* `node index1.js` 百度热点抓取
+* `node index2.js` 图片链接抓取
+
+## 依赖包
+
+* superagent：轻量ajaxAPI
+* cheerio: 服务端进行dom操作，语法类似jquery
+* [superagent-charset](https://www.npmjs.com/package/superagent-charset)：superagent添加charset支持
+* express:
+
+
