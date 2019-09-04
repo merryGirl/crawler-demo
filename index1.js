@@ -5,7 +5,7 @@
 let superagent = require('superagent');
 require("superagent-charset")(superagent);
 let cheerio = require('cheerio');
-let express = require('cheerio');
+let express = require('express');
 let app = express();
 let news = [];
 
