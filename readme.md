@@ -11,7 +11,7 @@
 
 * superagent：轻量ajaxAPI
 * cheerio: 服务端进行dom操作，语法类似jquery
-* [superagent-charset](https://www.npmjs.com/package/superagent-charset)：superagent添加charset支持
+* [superagent-charset](https://www.npmjs.com/package/superagent-charset)：为superagent添加charset支持
 * express:
 
 
